@@ -1,0 +1,10 @@
+# Site settings
+title: Your awesome title
+email: your-email@domain.com
+description: "Laboratory of Jack Taunton @ UCSF"
+baseurl: ""
+url: "http://tauntonlab.ucsf.edu"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
