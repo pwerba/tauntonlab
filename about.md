@@ -1,11 +1,9 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Research
+permalink: /research/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+#Research Summary
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Jack Taunton focuses on the design and discovery of chemical tools to selectively modulate proteins in living cells, with the aim of inventing small molecules that demystify complex cellular processes relevant to human disease. He is also interested in the mechanisms by which signaling proteins assemble on membrane surfaces to control cytoskeletal and membrane dynamics.
